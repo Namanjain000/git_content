@@ -1,0 +1,7 @@
+Devops course 
+1-Linux
+2-Git and github
+3-Ansible
+4-Maven
+5-Jenkins
+6-Terraform
